@@ -1,0 +1,10 @@
+/BoilerPlate/WebSite/bin
+/BoilerPlate/WebSite/obj
+/BoilerPlate/WebSite/Web.config
+/BoilerPlate/WebSite/Web.Debug.config
+/BoilerPlate/WebSite/Web.Release.config
+/BoilerPlate/Tests/obj
+/BoilerPlate/Tests/bin
+/BoilerPlate/packages
+/BoilerPlate/BusinessLogicDatabaseFirst/bin
+/BoilerPlate/BusinessLogicDatabaseFirst/obj
